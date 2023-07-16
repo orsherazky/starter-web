@@ -11,3 +11,6 @@ This is an example introduction section.
 ## Deployment
 
 ## How To Contribute
+
+### Copyright
+2014 Git.Training
